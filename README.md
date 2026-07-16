@@ -1,1 +1,1 @@
-This is a final research project for the ECS 171: Intro to Machine Learning course at UC Davis. 
+This is a final research project for the ECS 171: Intro to Machine Learning course at UC Davis. We created four different types of Machine Learning Models to try to predict a song's genre based on 11 different input features. 
